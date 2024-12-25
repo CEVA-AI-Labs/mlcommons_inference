@@ -13,6 +13,7 @@ Please see the [new docs site](https://docs.mlcommons.org/inference/benchmarks/l
 
  
 ## Prepare environment
+Unzip LiteML wheel file provided by ceva to this folder.
 
 Copy the mlperf.conf file to this folder.
 ```
