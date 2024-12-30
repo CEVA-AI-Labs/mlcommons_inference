@@ -1,6 +1,6 @@
 set -e
 export PIP_EXTRA_INDEX_URL=https://download.pytorch.org/whl/cu117
-pip install liteml-24.0.0-cp310-cp310-linux_x86_64.whl
+pip install liteml-25.0.0-cp310-cp310-linux_x86_64.whl
 pip install --upgrade numpy
 
 conda install pybind11==2.10.4 -c conda-forge -y
