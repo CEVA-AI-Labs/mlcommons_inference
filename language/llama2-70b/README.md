@@ -1,6 +1,6 @@
 # Reference Implementation for llama2-70b
 This is a forked repository of llama2-70b example that runs the accuracy benchmark of llama2-70b quantized by Ceva's LiteML.
-This example runs the accuracy benchmark only on a GPU. To run the performance benchmark (without LiteML) please follow the guidelines of the original repository [here](https://github.com/mlcommons/inference/tree/master/language/llama2-70b).
+This example runs the MLPerf accuracy benchmark only on a GPU.
 
 **Basic implementation for llama2-70b. Few noteworthy items:**
 
